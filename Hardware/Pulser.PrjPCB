@@ -54,24 +54,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ERFAYHVI
 
 [Document2]
-DocumentPath=..\..\Pulser\Pulser.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=QXXOLJQX
-
-[Document3]
-DocumentPath=..\..\Pulser\Pulser.OutJob
+DocumentPath=Pulser.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,65 +70,26 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[GeneratedDocument1]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.DRR
+[Document3]
+DocumentPath=Pulser.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HLADJQBB
 
-[GeneratedDocument2]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.REP
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=..\..\Pulser\Project Outputs for Pulser\Pulser.TXT
-DItemRevisionGUID=
+[Parameter1]
+Name=ProjectRevision
+Value=V2.0
 
 [Configuration1]
 Name=Default Configuration
