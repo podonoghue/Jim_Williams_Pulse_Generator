@@ -1,6 +1,10 @@
 # Jim_Williams_Pulse_Generator
 ====
-Jim Williams Pulse Generator for oscilloscope rise time measurements.  
+Jim Williams Pulse Generator.
+Main use is for testing Oscilloscope rise-time and hence estimating bandwidth.  
+
+See <a href="https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/blob/master/Hardware/an72f.pdf">Linear Technology’s Application Note 72, May 1998</img></a>
+
 This is an Altium designer project.  
 
 Refer to the PDFs in the Project Outputs directory 
