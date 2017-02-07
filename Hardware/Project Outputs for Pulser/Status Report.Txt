@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [Pulser.PcbDoc]
+   Generated File[Pulser.TXT]
+   Generated File[Pulser.LDP]
+   Generated File[Pulser.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:16:45 AM On 8/02/2017
