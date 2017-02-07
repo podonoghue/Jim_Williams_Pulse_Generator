@@ -3,7 +3,7 @@
 Jim Williams Pulse Generator.
 Main use is for testing Oscilloscope rise-time and hence estimating bandwidth.  
 
-See <a href="https://github.com/podonoghue/Jim_Williams_Pulse_Generator/blob/master/Hardware/an72f.pdf">Linear Technology’s Application Note 72, May 1998</img></a>
+See <a href="http://cds.linear.com/docs/en/application-note/an72f.pdf">Linear Technology’s Application Note 72, May 1998</img></a>
 
 This is an Altium designer project.  
 
