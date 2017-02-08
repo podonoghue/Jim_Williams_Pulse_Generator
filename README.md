@@ -1,13 +1,13 @@
 # Jim_Williams_Pulse_Generator
 ====
-Jim Williams Pulse Generator.
+Jim Williams Pulse Generator.  
 Main use is for testing Oscilloscope rise-time and hence estimating bandwidth.  
 
 See <a href="http://cds.linear.com/docs/en/application-note/an72f.pdf">Linear Technology’s Application Note 72, May 1998</img></a>
 
 This is an Altium designer project.  
 
-Refer to the PDFs in the Project Outputs directory 
+Refer to the PDFs in the Project Outputs directory for Layout and BOM
 <a href="https://github.com/podonoghue/Jim_Williams_Pulse_Generator/blob/master/Hardware/Project Outputs for Pulser/Pulser.PDF">PDF Documentation</img></a>
 
 ![An image](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Pulse_Top.png "Top Board Image")
