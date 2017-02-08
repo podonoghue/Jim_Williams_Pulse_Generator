@@ -2,8 +2,9 @@
 ====   
 Main use is for testing oscilloscope rise-time and hence estimating bandwidth.  
 
-See <a href="http://cds.linear.com/docs/en/application-note/an72f.pdf">A Seven-Nanosecond Comparator for Single Supply Operation, Linear Technology’s Application Note 72, May 1998</img></a>  
-See <a href="http://cds.linear.com/docs/en/application-note/an47fa.pdf">High Speed Amplifier Techniques, Linear Technology’s Application Note 47, August 1991</img></a>  
+References:
+<a href="http://cds.linear.com/docs/en/application-note/an72f.pdf">A Seven-Nanosecond Comparator for Single Supply Operation, Linear Technology’s Application Note 72, May 1998</img></a>  
+<a href="http://cds.linear.com/docs/en/application-note/an47fa.pdf">High Speed Amplifier Techniques, Linear Technology’s Application Note 47, August 1991</img></a>  
 
 This is an Altium designer project.  
 
