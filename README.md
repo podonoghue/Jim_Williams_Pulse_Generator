@@ -2,7 +2,7 @@
 ====   
 This module produces a pulse with a very fast rise time.   
 Its main use is for testing oscilloscope rise-time and hence estimating bandwidth.  
-For conveience the module is powered from a micro-usb socket.  
+For convenience the module is powered from a micro-usb socket.  
 Most current oscilloscopes have a USB host socket that can provide the power needed.   
 Connection to the oscilloscope will require a BNC-to-BNC adapter.
 
