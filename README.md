@@ -1,6 +1,9 @@
 # Jim_Williams_Pulse_Generator
 ====   
-Main use is for testing oscilloscope rise-time and hence estimating bandwidth.  
+This module produces a pulse with a very fast rise time.   
+Its main use is for testing oscilloscope rise-time and hence estimating bandwidth.  
+For conveience the module is powered from a micro-usb socket.  
+Most current oscilloscopes have a USB host sockect that can provide the power needed.   
 
 References:  
 <a href="http://cds.linear.com/docs/en/application-note/an72f.pdf">A Seven-Nanosecond Comparator for Single Supply Operation, Linear Technology’s Application Note 72, May 1998</img></a>  
