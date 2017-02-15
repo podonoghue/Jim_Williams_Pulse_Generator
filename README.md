@@ -19,8 +19,7 @@ Refer to the PDFs in the Project Outputs directory for layout and BOM
 ![Bottom image](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Pulse_Bottom.png "Bottom Board Image")
 ![3D image](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Pulse_3D_Perspective.png "3D Board Image")
 
-PCBs may be ordered from OSH park<a href="https://oshpark.com/shared_projects/4F9BRqY6"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>  
-
+PCBs may be ordered from OSH park<a href="https://oshpark.com/shared_projects/BweTVumw"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
 
 
 
