@@ -4,7 +4,8 @@ This module produces a pulse with a very fast rise time.
 Its main use is for testing oscilloscope rise-time and hence estimating bandwidth.  
 For convenience the module is powered from a micro-usb socket.  
 Most current oscilloscopes have a USB host socket that can provide the power needed.   
-Connection to the oscilloscope will require a BNC-to-BNC adapter.
+Connection to the oscilloscope will require a BNC-to-BNC adapter.  
+A length of 50 coax shold be used to extend the pulse so that rise-time may be measured.  
 
 References:  
 <a href="http://cds.linear.com/docs/en/application-note/an72f.pdf">A Seven-Nanosecond Comparator for Single Supply Operation, Linear Technology’s Application Note 72, May 1998</img></a>  
