@@ -149,7 +149,7 @@ DItemRevisionGUID=
 
 [Parameter1]
 Name=ProjectRevision
-Value=V2.3
+Value=V2.4
 
 [Configuration1]
 Name=Default Configuration

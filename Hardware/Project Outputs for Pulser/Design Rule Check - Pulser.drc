@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\podonoghue\Documents\Development\Jim_Williams_Pulse_Generator\Hardware\Pulser.PcbDoc
-Date     : 15/02/2017
-Time     : 1:46:56 PM
+Date     : 19/02/2017
+Time     : 10:03:25 PM
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -9,50 +9,50 @@ Rule Violations :0
 Processing Rule : Un-Routed Net Constraint ( (All) )
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.152mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.152mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=30mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.762mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=400mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=10.16mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=4mil) (All),(All)
-   Violation between Pad J1-S5(-1361.811mil,96.85mil)  Top Layer and 
-                     Pad J1-S1(-1452.362mil,114.567mil)  Top Layer
-   Violation between Pad J1-S2(-1452.362mil,32.992mil)  Top Layer and 
-                     Pad J1-S1(-1452.362mil,114.567mil)  Top Layer
-   Violation between Pad J1-S6(-1361.811mil,-96.85mil)  Top Layer and 
-                     Pad J1-S4(-1452.362mil,-114.567mil)  Top Layer
-   Violation between Pad J1-S3(-1452.362mil,-32.992mil)  Top Layer and 
-                     Pad J1-S4(-1452.362mil,-114.567mil)  Top Layer
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.102mm) (All),(All)
+   Violation between Pad J1-S5(-34.59mm,2.46mm)  Top Layer and 
+                     Pad J1-S1(-36.89mm,2.91mm)  Top Layer
+   Violation between Pad J1-S2(-36.89mm,0.838mm)  Top Layer and 
+                     Pad J1-S1(-36.89mm,2.91mm)  Top Layer
+   Violation between Pad J1-S6(-34.59mm,-2.46mm)  Top Layer and 
+                     Pad J1-S4(-36.89mm,-2.91mm)  Top Layer
+   Violation between Pad J1-S3(-36.89mm,-0.838mm)  Top Layer and 
+                     Pad J1-S4(-36.89mm,-2.91mm)  Top Layer
 Rule Violations :4
 
-Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Processing Rule : Silk To Solder Mask (Clearance=0.102mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Silk to Silk (Clearance=6mil) (All),(All)
+Processing Rule : Silk to Silk (Clearance=0.152mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
 
-Processing Rule : Room Pulser (Bounding Region = (3772mil, 1248.543mil, 6257mil, 2053.543mil) (InComponentClass('Pulser'))
+Processing Rule : Room Pulser (Bounding Region = (95.809mm, 31.713mm, 158.928mm, 52.16mm) (InComponentClass('Pulser'))
 Rule Violations :0
 
-Processing Rule : Clearance Constraint (Gap=15mil) ((InNet('V++') OR InNet('V+')    OR InNet('C'))),(All)
+Processing Rule : Clearance Constraint (Gap=0.381mm) ((InNet('V++') OR InNet('V+')    OR InNet('C'))),(All)
 Rule Violations :0
 
 
 Violations Detected : 4
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:00

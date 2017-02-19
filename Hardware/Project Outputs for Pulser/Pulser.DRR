@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------
-NCDrill File Report For: Pulser.PcbDoc   15/02/2017  2:43:15 PM
+NCDrill File Report For: Pulser.PcbDoc   19/02/2017  10:32:48 PM
 ---------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,10 +8,10 @@ ASCII RoundHoles File : Pulser.TXT
 Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
 ---------------------------------------------------------------------------
 T1        14mil (0.3556mm)         Round          7                0.53 Inch (13.53 mm)
-T2        19.7mil (0.50038mm)      Round          41               6.72 Inch (170.73 mm)
+T2        19.7mil (0.50038mm)      Round          42               6.79 Inch (172.43 mm)
 T3        70.9mil (1.80086mm)      Round          2                0.30 Inch (7.60 mm)
 T4        196.9mil (5.00126mm)     Round          1                0.00 Inch (0.00 mm)
 ---------------------------------------------------------------------------
-Totals                                            51               7.55 Inch (191.86 mm)
+Totals                                            52               7.62 Inch (193.56 mm)
 
 Total Processing Time (hh:mm:ss) : 00:00:00
