@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\podonoghue\Documents\Development\Jim_Williams_Pulse_Generator\Hardware\Pulser.PcbDoc
-Date     : 19/02/2017
-Time     : 10:03:25 PM
+Date     : 5/03/2017
+Time     : 9:02:15 AM
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -55,4 +55,4 @@ Rule Violations :0
 
 
 Violations Detected : 4
-Time Elapsed        : 00:00:00
+Time Elapsed        : 00:00:01
