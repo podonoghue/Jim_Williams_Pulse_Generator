@@ -22,9 +22,11 @@ Refer to the PDFs in the Project Outputs directory for layout and BOM
 ![Bottom image](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Pulse_Bottom.png "Bottom Board Image")  
 # 3D Image  
 ![3D image](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Pulse_3D_Perspective.png "3D Board Image")  
-# Example waveform from 500MHz DSO  
+# Example waveforms from 500MHz DSO, 50R termination direct connection to BNC input
 ![Measured Waveform](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Waveform_500MHz_50R_DSO.png "Measured Waveform")
 ![Measured Waveform](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Waveform_500MHz_50R_DSO_rising_edge.png "Measured Waveform")
+# Example waveforms from 500MHz DSO, 500MHz probe with BNC converter
+![Measured Waveform](https://raw.githubusercontent.com/podonoghue/Jim_Williams_Pulse_Generator/master/Hardware/Waveform_500MHz_Probe_500MHz_DSO_rising_edge.png "Measured Waveform")
   
 PCBs may be ordered from OSH park<a href="https://oshpark.com/shared_projects/KrhgN8JM"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>  
 
