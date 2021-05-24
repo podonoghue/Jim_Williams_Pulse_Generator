@@ -1,5 +1,11 @@
 # Jim_Williams_Pulse_Generator
     
+**Note:  The operation of this circuit depends on the breakdown characteristics of the 2N2369 transistor used.**
+
+**Please refer to the Application notes provided.**  
+
+I had no problems with the boards I constructed but I have had reports of the circuit not working.  The 2N2369 transistors appears to be no longer available. I have no experience with using the circuit with 2N2369A or BSX20 devices.
+
 This module produces a pulse with a very fast rise time.   
 Its main use is for testing oscilloscope rise-time and hence estimating bandwidth.  
 For convenience the module is powered from a micro-usb socket.  
